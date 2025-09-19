@@ -1,0 +1,56 @@
+List of questions
+
+
+
+### Control Flow and Functions
+
+1.  Write a function that takes an integer as input and returns "Even" if the number is even, and "Odd" if the number is odd.
+2.  Create a program that asks the user for a number and prints a countdown from that number to zero.
+3.  Write a function that checks if a given string is a palindrome.
+4.  Create a function that takes a list of numbers and returns the sum of all elements.
+5.  Write a function that calculates the factorial of a given number.
+6.  Create a function that takes two numbers and returns the larger of the two.
+7.  Write a program that prints the first `n` numbers in the Fibonacci sequence.
+
+---
+
+### Data Structures (Lists, Tuples, Dictionaries, Sets)
+
+8.  Write a function that takes a list of numbers and returns a new list with only the unique elements.
+9.  Create a program that asks the user for a list of words and counts the frequency of each word using a dictionary.
+10. Write a function that takes a list of tuples, where each tuple contains a name and a score, and sorts the list by score in descending order.
+11. Given two sets, write a function that returns a new set containing elements that are common to both.
+12. Write a program that takes a list of strings and returns a new list containing only the strings that have a length greater than 5.
+13. Create a function that takes a dictionary and returns a list of its keys sorted in alphabetical order.
+14. Write a function that takes a list of numbers and returns the second-largest number in the list.
+15. Create a function that takes a list of integers and returns `True` if the list is sorted in ascending order, `False` otherwise.
+
+---
+
+### Strings and Basic Operations
+
+16. Write a program that reverses a given string.
+17. Create a function that takes a string and counts the number of vowels and consonants.
+18. Write a program that removes all whitespace from a given string.
+19. Create a function that takes a string and converts it to title case (e.g., "hello world" becomes "Hello World").
+20. Write a function that checks if a string contains only digits.
+21. Write a function that takes a string and returns a new string with all duplicate characters removed.
+
+---
+
+### Object-Oriented Programming (OOP)
+
+22. Create a `Circle` class with a `radius` attribute and a method to calculate the area.
+23. Create a `Book` class with `title`, `author`, and `pages` attributes.
+24. Write a `Car` class with `make`, `model`, and `year` attributes, and a method to display the car's information.
+25. Create a `Dog` class with a `name` attribute and a `bark()` method that prints a message including the dog's name.
+
+---
+
+### Problem Solving
+
+26. Write a function that takes a list of numbers and finds the largest and smallest numbers without using built-in functions like `max()` or `min()`.
+27. Create a program that simulates a basic calculator that can perform addition, subtraction, multiplication, and division.
+28. Write a function that takes a list of integers and an integer `k`, then rotates the list `k` times to the right.
+29. Create a program that prints a right-aligned triangle of asterisks, with the number of rows determined by the user.
+30. Write a function that takes a list of integers and an integer `target`, and returns `True` if any two numbers in the list add up to the `target`.
